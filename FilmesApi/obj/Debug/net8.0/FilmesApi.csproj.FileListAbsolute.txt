@@ -31,3 +31,4 @@
 /home/marlon/Desktop/programação/c# curso api/C# api/FilmesApi/obj/Debug/net8.0/FilmesApi.pdb
 /home/marlon/Desktop/programação/c# curso api/C# api/FilmesApi/obj/Debug/net8.0/FilmesApi.genruntimeconfig.cache
 /home/marlon/Desktop/programação/c# curso api/C# api/FilmesApi/obj/Debug/net8.0/ref/FilmesApi.dll
+/home/marlon/Desktop/programação/c# curso api/C# api/FilmesApi/obj/Debug/net8.0/FilmesApi.sourcelink.json
