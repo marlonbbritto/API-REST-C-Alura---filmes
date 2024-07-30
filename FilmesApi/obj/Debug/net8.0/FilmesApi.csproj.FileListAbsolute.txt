@@ -210,3 +210,4 @@ C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\obj\De
 C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\obj\Debug\net8.0\FilmesApi.csproj.Up2Date
 C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\obj\Debug\net8.0\FilmesApi.genruntimeconfig.cache
 C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\obj\Debug\net8.0\ref\FilmesApi.dll
+C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\bin\Debug\net8.0\AutoMapper.dll
