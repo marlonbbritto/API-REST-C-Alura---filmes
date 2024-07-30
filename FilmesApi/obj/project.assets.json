@@ -2754,24 +2754,32 @@
     ]
   },
   "packageFolders": {
-    "/home/marlon/.nuget/packages/": {}
+    "C:\\Users\\marlo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marlon/Desktop/programação/c# curso api/C# api/FilmesApi/FilmesApi.csproj",
+      "projectUniqueName": "C:\\Programação\\curso_c#_clonado_git\\API-REST-C-Alura---filmes\\FilmesApi\\FilmesApi.csproj",
       "projectName": "FilmesApi",
-      "projectPath": "/home/marlon/Desktop/programação/c# curso api/C# api/FilmesApi/FilmesApi.csproj",
-      "packagesPath": "/home/marlon/.nuget/packages/",
-      "outputPath": "/home/marlon/Desktop/programação/c# curso api/C# api/FilmesApi/obj/",
+      "projectPath": "C:\\Programação\\curso_c#_clonado_git\\API-REST-C-Alura---filmes\\FilmesApi\\FilmesApi.csproj",
+      "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
+      "outputPath": "C:\\Programação\\curso_c#_clonado_git\\API-REST-C-Alura---filmes\\FilmesApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/marlon/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2784,6 +2792,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2830,7 +2843,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
