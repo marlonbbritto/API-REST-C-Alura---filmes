@@ -10,7 +10,7 @@ builder.Services.AddDbContext<FilmeContext>(opts=> opts.UseMySql(connectionStrin
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 // Adicione serviços ao contêiner
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddNewtonsoftJson();
 
 // Adicione o redirecionamento HTTPS
 builder.Services.AddHttpsRedirection(options =>
