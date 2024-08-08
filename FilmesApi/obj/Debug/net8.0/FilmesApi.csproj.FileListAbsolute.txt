@@ -217,3 +217,5 @@ C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\bin\De
 C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\bin\Debug\net8.0\FilmesApi.xml
 C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\obj\Debug\net8.0\FilmesApi.xml
+C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\bin\Debug\net8.0\Castle.Core.dll
+C:\Programação\curso_c#_clonado_git\API-REST-C-Alura---filmes\FilmesApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
