@@ -9,7 +9,7 @@ namespace FilmesApi.Profiles
         public SessaoProfile()
         {
             CreateMap<CreateSessaoDto, Sessao>();
-            CreateMap<Sessao, ReadSeassaoDto>();
+            CreateMap<Sessao, ReadSessaoDto>();
 
         }
     }
